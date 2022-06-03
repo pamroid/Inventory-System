@@ -1,2 +1,2 @@
-# Inventory-System（準備中）
+# Inventory-System
 Unityを使ったVisualScripting用のイベントリシステムを無料で提供します。
