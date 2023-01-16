@@ -1,2 +1,2 @@
 # Inventory-System
-Unityを使ったVisualScripting用のイベントリシステムを提供します。
+Unityを使ったVisualScripting用のイベントリシステム。
